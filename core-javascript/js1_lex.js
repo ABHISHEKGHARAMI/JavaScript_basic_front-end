@@ -44,3 +44,13 @@ data = s1.slice(-3);
 
 console.log(`After slicing the string will be : ${data}`);
 logger.log('INFO',`After slicing the string will be : ${data}`)
+
+
+// using the boolean value
+if (true == 1){
+    console.log(`This is true.`);
+    logger.log('INFO',`this is true.`)
+}else{
+    console.log(`this is false.`);
+    logger.log('INFO',`this is false.`);
+}

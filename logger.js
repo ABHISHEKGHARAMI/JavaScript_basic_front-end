@@ -10,7 +10,7 @@ const LOG_LEVELS = {
 };
 
 let logLevel = LOG_LEVELS.INFO;
-let logFilePath = '"D:/javascripts_basics/JavaScript_basic_front-end"/logs/logger.log'; // Default log file path
+let logFilePath = 'D:/javascripts_basics/JavaScript_basic_front-end/logs/logger.log'; // Default log file path
 
 function setLogLevel(level) {
   if (LOG_LEVELS.hasOwnProperty(level.toUpperCase())) {

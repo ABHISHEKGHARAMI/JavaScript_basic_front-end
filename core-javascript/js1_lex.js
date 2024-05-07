@@ -25,3 +25,10 @@ let data = s1.charAt(0)
 
 console.log(`the position of 0 is ${data}`);
 logger.log('INFO',`the position of 0 is ${data}`)
+
+
+// for substring
+data = s1.substring(3,s1.length)
+
+console.log(`the substring is : ${data}`);
+logger.log('INFO',`the substring is : ${data}`)

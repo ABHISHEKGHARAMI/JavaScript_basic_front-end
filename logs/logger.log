@@ -9,3 +9,8 @@
 [2024-05-07T08:54:32.184Z] [INFO] the length of the string is :31 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\js1_lex.js:21:8)
 [2024-05-07T08:54:32.187Z] [INFO] the substring is : wn fox jump on the lazy dog. (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\js1_lex.js:34:8)
 [2024-05-07T08:54:32.186Z] [INFO] the position of 0 is b (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\js1_lex.js:27:8)
+[2024-05-07T08:57:40.278Z] [INFO] brown fox jump on the lazy dog. (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\js1_lex.js:18:8)
+[2024-05-07T08:57:40.294Z] [INFO] the position of 0 is b (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\js1_lex.js:27:8)
+[2024-05-07T08:57:40.295Z] [INFO] the substring is : wn fox jump on the lazy dog. (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\js1_lex.js:34:8)
+[2024-05-07T08:57:40.297Z] [INFO] After the upper case the string is : BROWN FOX JUMP ON THE LAZY DOG.  (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\js1_lex.js:39:8)
+[2024-05-07T08:57:40.293Z] [INFO] the length of the string is :31 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\js1_lex.js:21:8)

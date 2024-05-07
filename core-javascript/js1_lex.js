@@ -32,3 +32,10 @@ data = s1.substring(3,s1.length)
 
 console.log(`the substring is : ${data}`);
 logger.log('INFO',`the substring is : ${data}`)
+
+data = s1.toUpperCase()
+
+console.log(`After the upper case the string is : ${data}`);
+logger.log('INFO',`After the upper case the string is : ${data} `)
+
+

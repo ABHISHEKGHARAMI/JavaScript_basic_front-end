@@ -10,8 +10,12 @@ Javascript has two types of datatypes
 
 */
 
-var s1 = "brown fox jump on the lazy dog."
+const logger = require('./logger');
+
+var s1 = "brown fox jump on the lazy dog.";
 
 console.log(s1);
+logger.log('INFO',s1);
 
 console.log("the length of the string is :" + s1.length);
+logger.log('INFO',"the length of the string is :" + s1.length);

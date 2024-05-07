@@ -38,4 +38,9 @@ data = s1.toUpperCase()
 console.log(`After the upper case the string is : ${data}`);
 logger.log('INFO',`After the upper case the string is : ${data} `)
 
+// using the slice for the 
 
+data = s1.slice(-3);
+
+console.log(`After slicing the string will be : ${data}`);
+logger.log('INFO',`After slicing the string will be : ${data}`)

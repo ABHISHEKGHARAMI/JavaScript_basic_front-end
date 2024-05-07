@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ABHISHEKGHARAMI/JavaScript_basic_front-end/issues"
   },
-  "homepage": "https://github.com/ABHISHEKGHARAMI/JavaScript_basic_front-end#readme"
+  "homepage": "https://github.com/ABHISHEKGHARAMI/JavaScript_basic_front-end#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }

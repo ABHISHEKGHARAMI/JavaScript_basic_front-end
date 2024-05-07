@@ -10,7 +10,7 @@ Javascript has two types of datatypes
 
 */
 
-const logger = require('./logger');
+const logger = require('../logger');
 
 var s1 = "brown fox jump on the lazy dog.";
 

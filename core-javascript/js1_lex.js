@@ -19,3 +19,9 @@ logger.log('INFO',s1);
 
 console.log("the length of the string is :" + s1.length);
 logger.log('INFO',"the length of the string is :" + s1.length);
+
+
+let data = s1.charAt(0)
+
+console.log(`the position of 0 is ${data}`);
+logger.log('INFO',`the position of 0 is ${data}`)

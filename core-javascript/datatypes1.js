@@ -71,3 +71,15 @@ console.log(`the value of ${big1} and ${big2} sum is : ${big1 + big2}`);
 logger.log('INFO',`the value of ${big1} and ${big2} sum is : ${big1 + big2}`);
 
 
+
+// String datatypes for the datatypes
+
+
+let str1 = "hello there!!"
+let str2 = "Amina";
+
+let str3 = str1 + str2;
+
+console.log(`the value of string is : ${str3}`);
+logger.log(`the value of string is : ${str3}`);
+

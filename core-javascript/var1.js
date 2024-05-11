@@ -10,8 +10,8 @@ logger.log('INFO',`candidate name is ${name}, age is ${age} and date of birth is
 
 
 console.log(`type of ${name} is : ${typeof(name)}`);
-logger.log(`type of ${name} is : ${typeof(name)}`)
+logger.log('INFO',`type of ${name} is : ${typeof(name)}`)
 console.log(`type of ${age} is : ${typeof(age)}`);
-logger.log(`type of ${age} is : ${typeof(age)}`)
+logger.log('INFO',`type of ${age} is : ${typeof(age)}`)
 console.log(`type of ${year} is : ${typeof(year)}`);
-logger.log(`type of ${year} is : ${typeof(year)}`)
+logger.log('INFO',`type of ${year} is : ${typeof(year)}`)

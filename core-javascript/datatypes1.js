@@ -15,3 +15,15 @@ Here we go for one by one .
 
 
  */
+
+// setting up the logger
+let logger = require('../logger');
+// first is number
+
+let n = 123;
+
+// change the value of the n like
+n = 12.36;
+
+console.log(`the number value is : ${n} and the type of the number is : ${typeof(n)}`);
+logger.log('INFO',`the number value is : ${n} and the type of the number is : ${typeof(n)}`)

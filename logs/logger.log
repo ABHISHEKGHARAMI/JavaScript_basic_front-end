@@ -55,3 +55,8 @@
 [2024-05-11T06:47:09.018Z] [INFO] the division of 5 by the number of 0 is : Infinity (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:39:8)
 [2024-05-11T06:47:09.019Z] [INFO] the division of -5 by the number of 0 is : -Infinity (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:48:8)
 [2024-05-11T06:47:09.020Z] [INFO] the value of c is : NaN and the type of the variable is : number (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:56:8)
+[2024-05-11T06:55:46.748Z] [INFO] the number value is : 12.36 and the type of the number is : number (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:29:8)
+[2024-05-11T06:55:46.762Z] [INFO] the division of 5 by the number of 0 is : Infinity (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:39:8)
+[2024-05-11T06:55:46.763Z] [INFO] the division of -5 by the number of 0 is : -Infinity (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:48:8)
+[2024-05-11T06:55:46.764Z] [INFO] the value of c is : NaN and the type of the variable is : number (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:56:8)
+[2024-05-11T06:55:46.765Z] [INFO] the value of 1234567 and 45678900 sum is : 46913467 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:71:8)

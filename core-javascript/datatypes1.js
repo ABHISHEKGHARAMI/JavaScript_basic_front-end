@@ -63,3 +63,11 @@ console.log(`the value of the sum of ${c} and 56 : ${sum}`);
 logger.log(`the value of the sum of ${c} and 56 : ${sum}`);
 
 
+// BigInt for the datatypes
+let big1 = 1234567;
+let big2 = 45678900;
+
+console.log(`the value of ${big1} and ${big2} sum is : ${big1 + big2}`);
+logger.log('INFO',`the value of ${big1} and ${big2} sum is : ${big1 + big2}`);
+
+

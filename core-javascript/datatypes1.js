@@ -27,3 +27,13 @@ n = 12.36;
 
 console.log(`the number value is : ${n} and the type of the number is : ${typeof(n)}`);
 logger.log('INFO',`the number value is : ${n} and the type of the number is : ${typeof(n)}`)
+
+
+// adding the infinity for repo .
+
+let a ,b;
+
+a = 5, b = 0;
+
+console.log(`the division of ${a} by the number of ${b} is : ${a/b}`);
+logger.log('INFO',`the division of ${a} by the number of ${b} is : ${a/b}`)

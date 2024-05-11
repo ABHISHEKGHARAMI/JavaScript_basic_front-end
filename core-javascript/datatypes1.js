@@ -96,3 +96,14 @@ logger.log('INFO',`the var value is : ${bool1} and type of the var is : ${typeof
 console.log(`the var value is : ${bool2} and type of the var is : ${typeof(bool2)}`);
 logger.log('INFO',`the var value is : ${bool2} and type of the var is : ${typeof(bool2)}`);
 
+
+// checking boolean for the repo
+
+if(4>1){
+    console.log(`checking the boolean for the value.`);
+    logger.log(`checking the boolean for the value.`);
+}else{
+    console.log('not checking for the value.');
+    logger.log('not checking for the value.');
+}
+

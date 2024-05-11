@@ -46,3 +46,20 @@ a = -5 , b = 0;
 
 console.log(`the division of ${a} by the number of ${b} is : ${a/b}`);
 logger.log('INFO',`the division of ${a} by the number of ${b} is : ${a/b}`)
+
+
+// here we learn about another datatype Nan
+
+let c = NaN
+
+console.log(`the value of c is : ${c} and the type of the variable is : ${typeof(c)}`);
+logger.log('INFO',`the value of c is : ${c} and the type of the variable is : ${typeof(c)}`)
+
+// it will always return the Nan when it operates with another value
+
+let sum = c + 56;
+
+console.log(`the value of the sum of ${c} and 56 : ${sum}`);
+logger.log(`the value of the sum of ${c} and 56 : ${sum}`);
+
+

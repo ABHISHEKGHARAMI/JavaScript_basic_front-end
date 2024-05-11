@@ -51,3 +51,7 @@
 [2024-05-11T06:22:11.195Z] [INFO] the number value is : 12.36 and the type of the number is : number (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:29:8)
 [2024-05-11T06:26:46.484Z] [INFO] the number value is : 12.36 and the type of the number is : number (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:29:8)
 [2024-05-11T06:26:46.499Z] [INFO] the division of 5 by the number of 0 is : Infinity (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:39:8)
+[2024-05-11T06:47:09.007Z] [INFO] the number value is : 12.36 and the type of the number is : number (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:29:8)
+[2024-05-11T06:47:09.018Z] [INFO] the division of 5 by the number of 0 is : Infinity (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:39:8)
+[2024-05-11T06:47:09.019Z] [INFO] the division of -5 by the number of 0 is : -Infinity (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:48:8)
+[2024-05-11T06:47:09.020Z] [INFO] the value of c is : NaN and the type of the variable is : number (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\datatypes1.js:56:8)

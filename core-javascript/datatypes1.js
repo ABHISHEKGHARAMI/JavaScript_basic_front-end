@@ -83,3 +83,16 @@ let str3 = str1 + str2;
 console.log(`the value of string is : ${str3}`);
 logger.log(`the value of string is : ${str3}`);
 
+
+// boolean in datatypes
+
+let bool1 = true;
+let bool2 = false;
+
+console.log(`the var value is : ${bool1} and type of the var is : ${typeof(bool1)}`);
+logger.log('INFO',`the var value is : ${bool1} and type of the var is : ${typeof(bool1)}`);
+
+
+console.log(`the var value is : ${bool2} and type of the var is : ${typeof(bool2)}`);
+logger.log('INFO',`the var value is : ${bool2} and type of the var is : ${typeof(bool2)}`);
+

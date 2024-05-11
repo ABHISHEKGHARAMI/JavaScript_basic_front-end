@@ -37,3 +37,12 @@ a = 5, b = 0;
 
 console.log(`the division of ${a} by the number of ${b} is : ${a/b}`);
 logger.log('INFO',`the division of ${a} by the number of ${b} is : ${a/b}`)
+
+// Infinity has two values one is positive and other is negative first example is
+//positive  Infinity and now i will show you the negative Infinity
+
+
+a = -5 , b = 0;
+
+console.log(`the division of ${a} by the number of ${b} is : ${a/b}`);
+logger.log('INFO',`the division of ${a} by the number of ${b} is : ${a/b}`)

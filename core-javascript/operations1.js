@@ -21,4 +21,13 @@ let y = 3;
 let val = y - x;
 
 console.log(`the value will be : ${val}`);
-logger.log('INFO',`the value will be : ${val}`)
+logger.log('INFO',`the value will be : ${val}`);
+
+// different types of the math operations
+
+// exponentials for the math
+
+let val2 = y**3;
+
+console.log(`the power of the ${y} of 3 is : ${val2}`);
+logger.log('INFO',`the power of the ${y} of 3 is : ${val2}`);

@@ -119,3 +119,5 @@
 [2024-05-14T11:14:17.105Z] [INFO] the 123 is : string (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\typeConvertion1.js:25:8)
 [2024-05-14T11:14:17.105Z] [INFO] the type of the true is : string (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\typeConvertion1.js:17:8)
 [2024-05-14T11:23:18.341Z] [INFO] After Urinary operation the value will be : -2 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\operations1.js:14:8)
+[2024-05-14T11:25:22.068Z] [INFO] After Urinary operation the value will be : -2 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\operations1.js:14:8)
+[2024-05-14T11:25:22.086Z] [INFO] the value will be : 5 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\operations1.js:24:8)

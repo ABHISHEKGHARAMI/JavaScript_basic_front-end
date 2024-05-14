@@ -31,3 +31,13 @@ let val2 = y**3;
 
 console.log(`the power of the ${y} of 3 is : ${val2}`);
 logger.log('INFO',`the power of the ${y} of 3 is : ${val2}`);
+
+
+// string concatenations
+let str1 = "hello";
+let str2 = "there";
+
+let str3 = str1 + str2;
+
+console.log(`After concatenation the final string will be : ${str3}`);
+logger.log('INFO',`After concatenation the final string will be : ${str3}`);

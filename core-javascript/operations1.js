@@ -52,3 +52,6 @@ let  val3 = +apples + +orange;
 
 console.log(`After converting the string into the number is : ${val3}`);
 logger.log('INFO',`After converting the string into the number is : ${val3}`);
+
+console.log(`the type of the string is the number is : ${typeof(val3)}`);
+logger.log('INFO',`the type of the string is the number is : ${typeof(val3)}`);

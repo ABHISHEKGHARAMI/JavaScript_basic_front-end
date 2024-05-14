@@ -55,3 +55,10 @@ logger.log('INFO',`After converting the string into the number is : ${val3}`);
 
 console.log(`the type of the string is the number is : ${typeof(val3)}`);
 logger.log('INFO',`the type of the string is the number is : ${typeof(val3)}`);
+
+// preference for the different type of the operator
+// ** > /,*> +,- like that
+let val4 = 2 * 3 - 3 + 1;
+
+console.log(`the preference for the operators : ${val4}`);
+logger.log('INFO',`the preference for the operators : ${val4}`);

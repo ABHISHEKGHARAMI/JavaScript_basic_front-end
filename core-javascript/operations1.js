@@ -41,3 +41,14 @@ let str3 = str1 + str2;
 
 console.log(`After concatenation the final string will be : ${str3}`);
 logger.log('INFO',`After concatenation the final string will be : ${str3}`);
+
+
+// converting the string into number
+
+let apples = "2";
+let orange = "3";
+
+let  val3 = +apples + +orange;
+
+console.log(`After converting the string into the number is : ${val3}`);
+logger.log('INFO',`After converting the string into the number is : ${val3}`);

@@ -2,4 +2,8 @@
 const logger = require('../logger');
 
 
-let str1 = "This is "
+// string convertion
+let val1 = true;
+console.log(`the type of the ${val1} is : ${typeof(val1)}`);
+logger.log('INFO',`the type of the ${val1} is : ${typeof(val1)}`);
+

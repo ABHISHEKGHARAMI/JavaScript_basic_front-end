@@ -14,4 +14,4 @@ r1.question('enter the name ?',(name)=>{
     console.log(`the name is : ${name}`);
     logger.log('INFO',`the name of the gentleman is : ${name}`);
     r1.close();
-})
+});

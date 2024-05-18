@@ -20,3 +20,14 @@ console.log(`0 and 1 : ${0&&1}`);
 logger.log("INFO",`0 and 1 : ${0&&1}`);
 console.log(`1 and 1 : ${1&&1}`);
 logger.log("INFO",`1 and 1 : ${1&&1}`);
+
+
+// logical or operator
+console.log(`0 or 0 : ${0||0}`);
+logger.log('INFO',`0 or 0 : ${0||0}`);
+console.log(`0 or 1 : ${0||1}`);
+logger.log('INFO',`0 or 1 : ${0||1}`);
+console.log(`1 or 0 : ${1||0}`);
+logger.log('INFO',`1 or 0 : ${1||0}`);
+console.log(`1 or 1 : ${1||1}`);
+logger.log('INFO',`1 or 1 : ${1||1}`);

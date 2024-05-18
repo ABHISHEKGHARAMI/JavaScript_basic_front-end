@@ -146,3 +146,6 @@
 [2024-05-18T06:23:10.418Z] [INFO] 3 is greater than 2 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\con_if1.js:17:12)
 [2024-05-18T06:23:10.500Z] [INFO] the bigger number is : 3 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\con_if1.js:25:8)
 [2024-05-18T06:23:10.501Z] [INFO] The message is : Hi baby ! (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\con_if1.js:35:8)
+[2024-05-18T06:37:04.283Z] [INFO] 3 is greater than 2 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\con_if1.js:17:12)
+[2024-05-18T06:37:04.357Z] [INFO] the bigger number is : 3 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\con_if1.js:25:8)
+[2024-05-18T06:37:04.358Z] [INFO] The message is : Hi baby ! (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\con_if1.js:35:8)

@@ -38,4 +38,4 @@ logger.log('INFO',`1 or 1 : ${1||1}`);
 let val3 = 1;
 
 console.log(`The not of the ${val3} is : ${!val3}`);
-logger.log('INFO',`The not of the ${val3} is : ${!val3}`);
+logger.log('INFO',`The not of the ${val3} is : ${Number(!val3)}`);

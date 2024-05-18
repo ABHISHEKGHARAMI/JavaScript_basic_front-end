@@ -24,3 +24,14 @@ let result = (val1 > val2) ? val1 : val2 ;
 console.log(`The bigger number is : ${result}`);
 logger.log('INFO',`the bigger number is : ${result}`);
 
+
+//using the multiple ?
+
+let age = 22;
+
+let message = (age > 3)? "Hi baby !" : (age > 20) ? "Hello there!" : (age > 30) ? "Welcome there" : " Go the other place";
+
+console.log(`The message is : ${message}`);
+logger.log("INFO",`The message is : ${message}`);
+  
+

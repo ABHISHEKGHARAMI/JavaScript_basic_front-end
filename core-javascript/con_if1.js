@@ -17,3 +17,10 @@ if(val1>val2){
     logger.log('INFO',`${val2} is greater than ${val1}`);
 }
 
+// but we can do the same thing with the '?' operator
+
+let result = (val1 > val2) ? val1 : val2 ;
+
+console.log(`The bigger number is : ${result}`);
+logger.log('INFO',`the bigger number is : ${result}`);
+

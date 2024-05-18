@@ -33,5 +33,22 @@ let message = (age > 3)? "Hi baby !" : (age < 20) ? "Hello there!" : (age < 30) 
 
 console.log(`The message is : ${message}`);
 logger.log("INFO",`The message is : ${message}`);
+
+
+// now time to use the if else if and else
+
+message = "Employee";
+
+if (message == "Employee"){
+  console.log(`welcome to the employee site .`);
+  logger.log(`welcome to the employee site.`);
+}else if(message == "Manager"){
+   console.log(`welcome to the manager site .`);
+   logger.log(`welcome to the manager site.`); 
+}
+else{
+    console.log(`welcome to the help site .`);
+    logger.log(`welcome to the help site.`);
+}
   
 

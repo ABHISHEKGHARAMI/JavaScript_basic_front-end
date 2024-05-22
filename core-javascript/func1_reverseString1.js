@@ -37,8 +37,9 @@ logger.log('INFO',`The sum of the number ${num4} is : ${sum(num4)}`);
 // q5 : check number is armstrong number or not
 function checkArmstrong(num){
     let sum = 0;
+    let rem = 0;
     while(num!=0){
-        let rem = num % 10;
+        rem = num % 10;
         sum += Math.pow(rem,3);
         num = parseInt(num / 10);
     }

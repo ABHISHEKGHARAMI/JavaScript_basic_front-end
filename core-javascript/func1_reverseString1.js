@@ -40,7 +40,7 @@ function checkArmstrong(num){
     let rem = 0;
     while(num>0){
         rem = num % 10;
-        sum += Math.pow(rem,3);
+        sum += rem * rem * rem;
         num = parseInt(num / 10);
     }
     if(num == sum){

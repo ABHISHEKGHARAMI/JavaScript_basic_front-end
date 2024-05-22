@@ -45,12 +45,12 @@ function checkArmstrong(num){
         num = parseInt(num / 10);
     }
     if(copynum == sum){
-        console.log(`${num} is armstrong number.`);
-        logger.log('INFO',`${num} is armstrong number.`);
+        console.log(`${copynum} is armstrong number.`);
+        logger.log('INFO',`${copynum} is armstrong number.`);
     }
     else{
-        console.log(`${num} is not an armstrong number.`);
-        logger.log('INFO',`${num} is not an armstrong number.`);
+        console.log(`${copynum} is not an armstrong number.`);
+        logger.log('INFO',`${copynum} is not an armstrong number.`);
     }
 }
 

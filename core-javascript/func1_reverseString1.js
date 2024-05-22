@@ -5,7 +5,7 @@ const logger = require('../logger');
 
 function reverse(str1){
     str2 = "";
-    for(let i = length(str)-1;i>=0;i--){
+    for(let i = str1.length - 1;i>=0;i--){
         str2+=str1[i];
     }
 

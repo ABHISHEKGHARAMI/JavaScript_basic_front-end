@@ -27,3 +27,9 @@ if(temp>= -20 || temp <= 20){
 }
 
 // can do this using the ternary operators
+//Create a program to print the result as pass if the marks obtained is greater than or equal to 40 using ternary operator.
+
+
+let marks = 45;
+
+let result = marks > 40? `${marks} greater than 40.` : `${marks} lesser than 40.`

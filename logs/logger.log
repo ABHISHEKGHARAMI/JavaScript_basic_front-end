@@ -219,3 +219,7 @@
 [2024-05-22T09:34:40.363Z] [INFO] Stay inside and don't play (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:13:12)
 [2024-05-22T09:34:40.378Z] [INFO] 2 is greater than zero. (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:46:16)
 [2024-05-22T09:34:40.377Z] [INFO] 45 greater than 40. (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:38:8)
+[2024-05-22T09:40:44.236Z] [INFO] Stay inside and don't play (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:13:12)
+[2024-05-22T09:40:44.254Z] [INFO] 45 greater than 40. (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:38:8)
+[2024-05-22T09:40:44.255Z] [INFO] 2 is greater than zero. (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:46:16)
+[2024-05-22T09:40:44.256Z] [INFO] The gcd of 10 and 15 is : 5 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:70:8)

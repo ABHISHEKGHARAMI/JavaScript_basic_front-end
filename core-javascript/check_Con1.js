@@ -55,3 +55,16 @@ switch(true){
         break;
     }
 }
+
+// q3 : hcf and gcd of the number]
+let num2 =10;
+let num3 = 15;
+let gcd = 0;
+for(let i = 1;i<=num2 && i <=num3;i++){
+    if( num2 %i ==0 && num3 % i ==0){
+        gcd = i;
+    }
+}
+
+console.log(`The gcd of ${num2} and ${num3} is : ${gcd}`);
+logger.log('INFO',`The gcd of ${num2} and ${num3} is : ${gcd}`);

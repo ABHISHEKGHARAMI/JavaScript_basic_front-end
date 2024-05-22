@@ -51,3 +51,5 @@ function checkArmstrong(num){
         logger.log('INFO',`${num} is not an armstrong number.`);
     }
 }
+
+checkArmstrong(153);

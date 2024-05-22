@@ -32,3 +32,22 @@ let num4 = 1456;
 console.log(`The sum of the number ${num4} is : ${sum(num4)}`);
 
 logger.log('INFO',`The sum of the number ${num4} is : ${sum(num4)}`);
+
+
+// q5 : check number is armstrong number or not
+function checkArmstrong(num){
+    let sum = 0;
+    while(num!=0){
+        let rem = num % 10;
+        sum += Math.pow(rem,3);
+        num = num / 10;
+    }
+    if(num == sum){
+        console.log(`${num} is armstrong number.`);
+        logger.log('INFO',`${num} is armstrong number.`);
+    }
+    else{
+        console.log(`${num} is not an armstrong number.`);
+        logger.log('INFO',`${num} is not an armstrong number.`);
+    }
+}

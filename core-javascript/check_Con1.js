@@ -68,3 +68,6 @@ for(let i = 1;i<=num2 && i <=num3;i++){
 
 console.log(`The gcd of ${num2} and ${num3} is : ${gcd}`);
 logger.log('INFO',`The gcd of ${num2} and ${num3} is : ${gcd}`);
+
+console.log(`The hcf of ${num2} and ${num3} is : ${(num2*num3)/gcd}`);
+logger.log('INFO',`The hcf of ${num2} and ${num3} is : ${(num2*num3)/gcd}`);

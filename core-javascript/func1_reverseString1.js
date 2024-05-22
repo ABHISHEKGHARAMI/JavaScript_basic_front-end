@@ -38,7 +38,7 @@ logger.log('INFO',`The sum of the number ${num4} is : ${sum(num4)}`);
 function checkArmstrong(num){
     let sum = 0;
     let rem = 0;
-    while(num!=0){
+    while(num>0){
         rem = num % 10;
         sum += Math.pow(rem,3);
         num = parseInt(num / 10);

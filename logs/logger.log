@@ -223,3 +223,8 @@
 [2024-05-22T09:40:44.254Z] [INFO] 45 greater than 40. (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:38:8)
 [2024-05-22T09:40:44.255Z] [INFO] 2 is greater than zero. (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:46:16)
 [2024-05-22T09:40:44.256Z] [INFO] The gcd of 10 and 15 is : 5 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:70:8)
+[2024-05-22T09:42:30.192Z] [INFO] Stay inside and don't play (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:13:12)
+[2024-05-22T09:42:30.214Z] [INFO] 45 greater than 40. (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:38:8)
+[2024-05-22T09:42:30.215Z] [INFO] 2 is greater than zero. (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:46:16)
+[2024-05-22T09:42:30.216Z] [INFO] The gcd of 10 and 15 is : 5 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:70:8)
+[2024-05-22T09:42:30.218Z] [INFO] The hcf of 10 and 15 is : 30 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:73:8)

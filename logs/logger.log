@@ -229,3 +229,5 @@
 [2024-05-22T09:42:30.216Z] [INFO] The gcd of 10 and 15 is : 5 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:70:8)
 [2024-05-22T09:42:30.218Z] [INFO] The hcf of 10 and 15 is : 30 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\check_Con1.js:73:8)
 [2024-05-22T09:48:58.780Z] [INFO] The reverse of the string hello there! is !ereht olleh (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\func1_reverseString1.js:18:8)
+[2024-05-22T10:25:10.154Z] [INFO] The reverse of the string hello there! is !ereht olleh (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\func1_reverseString1.js:18:8)
+[2024-05-22T10:25:10.171Z] [INFO] The sum of the number 1456 is : 6541 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\func1_reverseString1.js:34:8)

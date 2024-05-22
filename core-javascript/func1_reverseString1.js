@@ -22,8 +22,8 @@ logger.log('INFO',`The reverse of the string ${str1} is ${reverse(str1)}`);
 function sum(num){
     let rem = 0;
     while(num!=0){
-        rem = rem * 10 + (num%10);
-        num = parseInt(num / 10);
+        rem = rem + num % 10;
+        num = num / 10;
     }
     return rem;
 }

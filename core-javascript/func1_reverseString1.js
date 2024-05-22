@@ -44,7 +44,7 @@ function checkArmstrong(num){
         sum += rem * rem * rem;
         num = parseInt(num / 10);
     }
-    if(num == sum){
+    if(copynum == sum){
         console.log(`${num} is armstrong number.`);
         logger.log('INFO',`${num} is armstrong number.`);
     }

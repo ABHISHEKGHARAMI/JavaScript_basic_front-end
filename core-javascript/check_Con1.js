@@ -33,3 +33,6 @@ if(temp>= -20 || temp <= 20){
 let marks = 45;
 
 let result = marks > 40? `${marks} greater than 40.` : `${marks} lesser than 40.`
+
+console.log(result);
+logger.log('INFO',result);

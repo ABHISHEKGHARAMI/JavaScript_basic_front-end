@@ -36,3 +36,22 @@ let result = marks > 40? `${marks} greater than 40.` : `${marks} lesser than 40.
 
 console.log(result);
 logger.log('INFO',result);
+
+// q3 : Create a program to find if the number is positive, negative or zero.
+let num1 = 2;
+
+switch(true){
+    case (num1 > 0):
+        console.log(`${num1} is greater than zero.`);
+        logger.log('INFO',`${num1} is greater than zero.`);
+        break;
+    case (num1==0):
+        console.log(`${num1} is equal to zero.`);
+        logger.log('INFO',`${num1} is equal to zero.`);
+        break;
+    case (num1 < 0):{
+        console.log(`${num1} is lesser than zero.`);
+        logger.log('INFO',`${num1} is lesser than zero.`);
+        break;
+    }
+}

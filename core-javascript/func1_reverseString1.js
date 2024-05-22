@@ -40,7 +40,7 @@ function checkArmstrong(num){
     while(num!=0){
         let rem = num % 10;
         sum += Math.pow(rem,3);
-        num = num / 10;
+        num = parseInt(num / 10);
     }
     if(num == sum){
         console.log(`${num} is armstrong number.`);

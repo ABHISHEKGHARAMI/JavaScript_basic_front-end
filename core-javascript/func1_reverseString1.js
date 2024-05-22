@@ -36,6 +36,7 @@ logger.log('INFO',`The sum of the number ${num4} is : ${sum(num4)}`);
 
 // q5 : check number is armstrong number or not
 function checkArmstrong(num){
+    let copynum = num;
     let sum = 0;
     let rem = 0;
     while(num>0){

@@ -25,3 +25,5 @@ if(temp>= -20 || temp <= 20){
        logger.log('INFO',`SGo outside and play .`); 
     }
 }
+
+// can do this using the ternary operators

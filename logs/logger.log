@@ -233,3 +233,5 @@
 [2024-05-22T10:25:10.171Z] [INFO] The sum of the number 1456 is : 6541 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\func1_reverseString1.js:34:8)
 [2024-05-22T10:27:13.647Z] [INFO] The reverse of the string hello there! is !ereht olleh (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\func1_reverseString1.js:18:8)
 [2024-05-22T10:27:13.659Z] [INFO] The sum of the number 1456 is : 17.777777777777775 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\func1_reverseString1.js:34:8)
+[2024-05-22T10:28:02.678Z] [INFO] The reverse of the string hello there! is !ereht olleh (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\func1_reverseString1.js:18:8)
+[2024-05-22T10:28:02.687Z] [INFO] The sum of the number 1456 is : 16 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\func1_reverseString1.js:34:8)

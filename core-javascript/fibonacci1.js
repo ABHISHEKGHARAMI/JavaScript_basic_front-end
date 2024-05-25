@@ -2,7 +2,10 @@
 const logger = require('../logger');
 
 
-function fibonacci(n){
+function fibonacci(n,memo = {}){
+   if(n in memo){
+      return memo[n];
+   }
    if (n==0){
       return 0;
    }
@@ -10,7 +13,8 @@ function fibonacci(n){
       return 1;
    }
    else{
-      return fibonacci(n-1) + fibonacci(n-2);
+      memo[n] =  fibonacci(n-1,memo) + fibonacci(n-2,memo);
+      return memo[n];
    }
 }
 

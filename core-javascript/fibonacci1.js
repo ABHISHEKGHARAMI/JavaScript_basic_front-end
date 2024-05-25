@@ -3,17 +3,16 @@ const logger = require('../logger');
 
 
 function fibonacci(n){
- let a = 0;
- let b = 1;
- if (n == 0 || n == 1){
-    return a;
- }
- else{
-    return fibonacci(n-1) + fibonacci(n-2)
- }
+   if (n==0){
+      return 0;
+   }
+   if(n==1){
+      return 1;
+   }
+   else{
+      return fibonacci(n-1) + fibonacci(n-2);
+   }
 }
-
-let n = 12;
 
 console.log(`the fibonacci series is`);
 logger.log(`the fibonacci series is :`);

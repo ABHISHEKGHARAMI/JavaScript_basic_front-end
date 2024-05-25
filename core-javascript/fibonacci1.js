@@ -19,13 +19,14 @@ function fibonacci(n,memo = {}){
 }
 
 function fibo_series(n){
+   let series = [];
    if(n == 0){
-      return [0];
+      series.push(0)
    }
    if(n==1){
-      return [0,1];
+      series.push(1);
    }
-   let series = [0,1];
+   
    for(let i =2;i<=n;i++){
       series.push(fibo_series(n-1)+fibo_series(n-2));
    }

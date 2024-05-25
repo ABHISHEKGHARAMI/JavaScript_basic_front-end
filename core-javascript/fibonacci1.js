@@ -26,7 +26,10 @@ function fibo_series(n){
       return [0,1];
    }
    let series = [0,1];
-   series.push(fibo_series(n-1))+series.push(fibo_series(n-2));
+   for(let i =2;i<=n;i++){
+      series.push(fibo_series(n-1)+fibo_series(n-2));
+   }
+   return series;
 }
 
 console.log(`the fibonacci series is`);

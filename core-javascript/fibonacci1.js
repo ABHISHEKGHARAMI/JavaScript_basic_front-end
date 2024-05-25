@@ -17,7 +17,7 @@ function fibonacci(n){
 console.log(`the fibonacci series is`);
 logger.log(`the fibonacci series is :`);
 
-let a = fibonacci(n);
+let a = fibonacci(12);
 
 console.log(`${a}`);
 logger.log(`${a}`);

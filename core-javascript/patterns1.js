@@ -20,7 +20,7 @@ for(i=5;i>0;i--){
     for(j=i-1;j>0;j--){
      row += " ";
     }
-    for(j=0;j<5;j++){
+    for(j=0;j<5-i-1;j++){
         row += "*";
     }
     console.log(row);

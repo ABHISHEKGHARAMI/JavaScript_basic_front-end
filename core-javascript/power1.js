@@ -14,5 +14,5 @@ function power(x,n){
 
 let b = power(2,6);
 
-console.log(`The power of 2 for 8 is : ${b}`);
+console.log(`The power of 2 for 6 is : ${b}`);
 logger.log('INFO',`The power of 2 for 8 is : ${b}`);

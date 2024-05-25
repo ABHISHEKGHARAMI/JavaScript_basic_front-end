@@ -15,12 +15,12 @@ for(i=0;i<=5;i++){
 }
 
 // another pattern
-for(i=5;i>=0;i--){
+for(i=5;i>0;i--){
     let row = "";
-    for(j=i-1;j>=0;j--){
+    for(j=i-1;j>0;j--){
      row += " ";
     }
-    for(j=0;j<=5-i;j++){
+    for(j=0;j<5-i;j++){
         row += "*";
     }
     console.log(row);

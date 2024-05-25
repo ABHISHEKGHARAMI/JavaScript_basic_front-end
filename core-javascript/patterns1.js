@@ -6,8 +6,9 @@ const logger = require('../logger');
 let i,j;
 
 for(i=0;i<=5;i++){
+    let row = "";
     for(j=0;j<=i;j++){
-        console.log('*');
+        row += i;
     }
-    
+    console.log(row);
 }

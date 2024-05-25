@@ -13,3 +13,16 @@ for(i=0;i<=5;i++){
     console.log(row);
     logger.log('INFO',row);
 }
+
+// another pattern
+for(i=5;i>=0;i--){
+    let row = "";
+    for(j=i-1;j>=0;j--){
+     row += " ";
+    }
+    for(j=0;j<=5;j++){
+        row += "*";
+    }
+    console.log(row);
+    logger.log('INFO',row);
+}

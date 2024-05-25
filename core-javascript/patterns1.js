@@ -8,7 +8,8 @@ let i,j;
 for(i=0;i<=5;i++){
     let row = "";
     for(j=0;j<=i;j++){
-        row += i;
+        row += "*";
     }
     console.log(row);
+    logger.log('INFO',row);
 }

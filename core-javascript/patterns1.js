@@ -26,3 +26,21 @@ for(i=5;i>0;i--){
     console.log(row);
     logger.log('INFO',row);
 }
+
+
+// here comes another new pattern for the repo .
+
+for(i=5;i>0;i--){
+    let row = "";
+    for(j=i-1;j>0;j--){
+        row+=" ";
+    }
+    for(j=0;j<5-i+1;j++){
+        row += "*";
+    }
+    for(let k = 0; k < 5 - i;k++){
+        row+= "*";
+    }
+    console.log(row);
+    logger.log(row);
+}

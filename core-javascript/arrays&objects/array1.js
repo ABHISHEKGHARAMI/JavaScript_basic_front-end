@@ -79,3 +79,9 @@ if(Array.isArray(arr3) == true){
     console.log(`this is not an array.`);
     logger.log('INFO',`this is not an array.`);
 }
+
+// how to create the empty array using the Array
+let arr4 = new Array(4);
+
+console.log(`the array is : ${arr4}`);
+logger.log(`the array is : ${arr4}`);

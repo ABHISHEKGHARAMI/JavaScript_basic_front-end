@@ -70,3 +70,12 @@ logger.log('INFO',`After concating with  the first array with the second one is 
 
 console.log(`the new length will be : ${arr3.length}`);
 logger.log('INFO',`the new length will be : ${arr3.length}`);
+
+// check this array or not
+if(arr3.isArray() == true){
+    console.log(`this is array.`);
+    logger.log('INFO',`this is array.`);
+}else{
+    console.log(`this is not an array.`);
+    logger.log('INFO',`this is not an array.`);
+}

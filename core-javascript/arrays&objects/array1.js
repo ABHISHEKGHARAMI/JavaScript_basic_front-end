@@ -100,3 +100,7 @@ let data1 = arr3.pop();
 
 console.log(`after the popping the array will be : ${data1}`);
 logger.log('INFO',`after the popping the array will be : ${data1}`);
+
+// spice the array
+console.log(`after splicing the array the new array will be : ${arr3.splice(2,4)}`);
+logger.log('INFO',`after splice the array the new array will be : ${arr3.splice(2,4)}`);

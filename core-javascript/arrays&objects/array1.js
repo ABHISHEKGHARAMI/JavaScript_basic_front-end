@@ -30,3 +30,11 @@ arr1.length = 7;
 
 console.log(`After size increase the array will be : ${arr1}`);
 logger.log('INFO',`After size increase the array will be : ${arr1}`);
+
+
+// iterating through the array
+console.log(`iterating the array :`);
+for(let i =0 ;i < arr1.length;i++){
+    console.log(`The ${i}th element is : ${arr1[i]}`);
+    logger.log('INFO',`The ${i}th element is : ${arr1[i]}`);
+}

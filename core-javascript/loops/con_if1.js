@@ -1,5 +1,5 @@
 // importing logger
-const logger = require('../logger');
+const logger = require('../../logger');
 
 // checking with the if condition
 let val1, val2;

@@ -1,6 +1,6 @@
 // importing the switch
 
-const logger = require('../logger');
+const logger = require('../../logger');
 
 
 let choice = 4 ;

@@ -1,5 +1,5 @@
 // setting up the logger file
-const logger = require('../logger');
+const logger = require('../../logger');
 
 
 // here we write the code for the condition given

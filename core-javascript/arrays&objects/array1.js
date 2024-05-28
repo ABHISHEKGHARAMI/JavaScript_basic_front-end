@@ -38,3 +38,10 @@ for(let i =0 ;i < arr1.length;i++){
     console.log(`The ${i}th element is : ${arr1[i]}`);
     logger.log('INFO',`The ${i}th element is : ${arr1[i]}`);
 }
+
+// using the forEach
+
+arr1.forEach(function(x){
+    console.log(`the element is : ${x}`);
+    logger.log('INFO',`the element is : ${x}`);
+});

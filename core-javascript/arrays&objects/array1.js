@@ -59,3 +59,5 @@ arr2.push('mqtt');
 // checking the new array
 console.log(`the new array will be : ${arr2}`);
 logger.log('INFO',`the new array will be : ${arr2}`);
+
+

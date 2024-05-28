@@ -85,3 +85,10 @@ let arr4 = new Array(4);
 
 console.log(`the array is : ${arr4}`);
 logger.log(`the array is : ${arr4}`);
+
+// reverse the array
+
+arr3 = arr3.reverse();
+
+console.log(`After reversing the array will be : ${arr3}`);
+logger.log('INFO',`After the reverse the array will be : ${arr3}`);

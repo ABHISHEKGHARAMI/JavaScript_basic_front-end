@@ -92,3 +92,11 @@ arr3 = arr3.reverse();
 
 console.log(`After reversing the array will be : ${arr3}`);
 logger.log('INFO',`After the reverse the array will be : ${arr3}`);
+
+
+// popping the array
+let data1 = arr3.pop();
+
+
+console.log(`after the popping the array will be : ${data1}`);
+logger.log('INFO',`after the popping the array will be : ${data1}`);

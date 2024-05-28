@@ -379,3 +379,5 @@
 [2024-05-28T05:40:09.434Z] [INFO] the sum of first 15 prime number is :30 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\function_call1.js:38:8)
 [2024-05-28T05:46:01.543Z] [INFO] the sum of first 15 prime number is :30 (File: D:\javascripts_basics\JavaScript_basic_front-end\core-javascript\function_call1.js:38:8)
 [2024-05-28T08:51:50.587Z] [INFO] the array is :html,css,bootstrap,js,react.js (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array1.js:13:8)
+[2024-05-28T08:54:24.654Z] [INFO] the array is :html,css,bootstrap,js,react.js (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array1.js:13:8)
+[2024-05-28T08:54:24.674Z] [INFO] the length of the array is : 5 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array1.js:18:8)

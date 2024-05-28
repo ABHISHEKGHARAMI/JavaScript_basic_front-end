@@ -11,3 +11,8 @@ arr1.push('react.js');
 
 console.log(`the array is :${arr1}`);
 logger.log('INFO',`the array is :${arr1}`);
+
+let len1 = arr1.length();
+
+console.log(`the length of the array is : ${len1}`);
+logger.log('INFO',`the length of the array is : ${len1}`);

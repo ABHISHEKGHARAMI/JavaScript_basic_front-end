@@ -44,3 +44,18 @@ for(let i =0 ;i < arr1.length;i++){
 arr1.forEach(function(x){
     console.log(x);
 });
+
+// have to concat other array
+let arr2 = new Array();
+
+arr2.push('python');
+arr2.push('django');
+arr2.push('flask');
+arr2.push('docker');
+arr2.push('aws');
+arr2.push('ngnix');
+arr2.push('mqtt');
+
+// checking the new array
+console.log(`the new array will be : ${arr2}`);
+logger.log('INFO',`the new array will be : ${arr2}`);

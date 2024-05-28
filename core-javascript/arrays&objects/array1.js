@@ -16,3 +16,10 @@ let len1 = arr1.length;
 
 console.log(`the length of the array is : ${len1}`);
 logger.log('INFO',`the length of the array is : ${len1}`);
+
+
+// print the certain pos of the array
+let pos = arr1.at(4);
+
+console.log(`the fourth position of the array is : ${pos}`);
+logger.log('INFO',`the fourth position of the array is : ${pos}`);

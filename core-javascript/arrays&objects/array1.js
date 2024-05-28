@@ -72,7 +72,7 @@ console.log(`the new length will be : ${arr3.length}`);
 logger.log('INFO',`the new length will be : ${arr3.length}`);
 
 // check this array or not
-if(arr3.isArray() == true){
+if(Array.isArray(arr3) == true){
     console.log(`this is array.`);
     logger.log('INFO',`this is array.`);
 }else{

@@ -61,3 +61,12 @@ console.log(`the new array will be : ${arr2}`);
 logger.log('INFO',`the new array will be : ${arr2}`);
 
 
+// now concat
+
+arr1.concat(arr2);
+
+console.log(`After concating with  the first array with the second one is : ${arr1}`);
+logger.log('INFO',`After concating with  the first array with the second one is : ${arr1}`);
+
+console.log(`the new length will be : ${arr1.length}`);
+logger.log('INFO',`the new length will be : ${arr1.length}`);

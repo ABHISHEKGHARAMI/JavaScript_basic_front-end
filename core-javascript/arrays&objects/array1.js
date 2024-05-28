@@ -42,6 +42,5 @@ for(let i =0 ;i < arr1.length;i++){
 // using the forEach
 
 arr1.forEach(function(x){
-    console.log(`the element is : ${x}`);
-    logger.log('INFO',`the element is : ${x}`);
+    console.log(x);
 });

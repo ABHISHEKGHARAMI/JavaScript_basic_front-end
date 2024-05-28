@@ -384,3 +384,7 @@
 [2024-05-28T08:58:58.732Z] [INFO] the array is :html,css,bootstrap,js,react.js (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array1.js:13:8)
 [2024-05-28T08:58:58.743Z] [INFO] the length of the array is : 5 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array1.js:18:8)
 [2024-05-28T08:58:58.778Z] [INFO] the fourth position of the array is : react.js (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array1.js:25:8)
+[2024-05-28T09:02:26.648Z] [INFO] the array is :html,css,bootstrap,js,react.js (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array1.js:13:8)
+[2024-05-28T09:02:26.956Z] [INFO] the length of the array is : 5 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array1.js:18:8)
+[2024-05-28T09:02:26.958Z] [INFO] the fourth position of the array is : react.js (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array1.js:25:8)
+[2024-05-28T09:02:26.959Z] [INFO] After size increase the array will be : html,css,bootstrap,js,react.js,, (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array1.js:32:8)

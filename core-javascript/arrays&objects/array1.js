@@ -23,3 +23,10 @@ let pos = arr1.at(4);
 
 console.log(`the fourth position of the array is : ${pos}`);
 logger.log('INFO',`the fourth position of the array is : ${pos}`);
+
+
+// increasing the array length
+arr1.length = 7;
+
+console.log(`After size increase the array will be : ${arr1}`);
+logger.log('INFO',`After size increase the array will be : ${arr1}`);

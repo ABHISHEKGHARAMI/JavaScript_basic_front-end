@@ -1,5 +1,5 @@
 // number
-const logger = require('../logger');
+const logger = require('../../logger');
 let x=3;
 let y=4;
 

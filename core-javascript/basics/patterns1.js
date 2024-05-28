@@ -1,5 +1,5 @@
 // printing the pattern for the js
-const logger = require('../logger');
+const logger = require('../../logger');
 
 // printing the patterns
 

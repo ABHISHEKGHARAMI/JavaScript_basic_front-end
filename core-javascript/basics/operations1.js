@@ -1,5 +1,5 @@
 // setup the logger
-const logger = require('../logger');
+const logger = require('../../logger');
 
 
 // here we go for the different operations

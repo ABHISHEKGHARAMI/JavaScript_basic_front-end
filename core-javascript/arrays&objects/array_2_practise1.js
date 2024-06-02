@@ -13,3 +13,7 @@ arr3.push('e');
 console.log(`the array is : ${arr3}`);
 logger.log('INFO',`the array is : ${arr3}`);
 
+let var1 = arr3.at(-1);
+
+console.log(`the array is : ${var1}`);
+logger.log('INFO',`the array is : ${var1}`);

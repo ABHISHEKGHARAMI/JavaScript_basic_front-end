@@ -539,3 +539,5 @@
 [2024-06-02T12:41:36.103Z] [INFO] the fourth position of the array is : react.js (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array1.js:25:8)
 [2024-06-02T12:41:36.139Z] [INFO] After the reverse the array will be : mqtt,ngnix,aws,docker,flask,django,python,,,react.js,js,bootstrap,css,html (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array1.js:94:8)
 [2024-06-02T12:41:36.102Z] [INFO] the length of the array is : 5 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array1.js:18:8)
+[2024-06-02T12:56:38.314Z] [INFO] the array is : ,,,,,a,b,c,d,e (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array_2_practise1.js:14:8)
+[2024-06-02T12:56:38.739Z] [INFO] the array is : e (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array_2_practise1.js:19:8)

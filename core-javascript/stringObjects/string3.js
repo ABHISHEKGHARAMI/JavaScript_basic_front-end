@@ -37,3 +37,10 @@ logger.log('INFO',`the type of the concatinated is : ${typeof(str4)}`);
 let str5 = str4.substring(15,20);
 console.log(`the substring is : ${str5}`);
 logger.log('INFO',`the substring is : ${str5}`);
+
+// converting the string in uupercase and lowercase charecter'
+
+let str6  = str4.toLowerCase();
+
+console.log(`After converting the charecter in lower case the string will be : ${str6}`);
+logger.log('INFO',`After converting the charceter in the lowercase the string will be : ${str6}`);

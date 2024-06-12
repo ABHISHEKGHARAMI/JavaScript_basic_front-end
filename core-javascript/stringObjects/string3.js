@@ -12,3 +12,9 @@ let newStr = `String created using the ${str}`;
 
 console.log(newStr);
 logger.log('INFO',newStr);
+
+// length of the string
+let strlen = str.length;
+
+console.log(`the length of the string is : ${strlen}`);
+logger.log('INFO',`the length of the string is : ${strlen}`);

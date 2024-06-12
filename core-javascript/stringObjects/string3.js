@@ -32,3 +32,5 @@ logger.log('INFO',`After concatenation the string is : ${str4}`);
 
 console.log(`The type of the concatinated is : ${typeof(str4)}`);
 logger.log('INFO',`the type of the concatinated is : ${typeof(str4)}`);
+
+//substring

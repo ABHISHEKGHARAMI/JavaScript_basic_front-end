@@ -49,3 +49,10 @@ logger.log('INFO',`After converting the charceter in the lowercase the string wi
 let str7 = str4.toUpperCase();
 console.log(`After converting the charecter in upper case the string will be : ${str7}`);
 logger.log('INFO',`After converting the charecter in the lowercase the string will be : ${str7}`);
+
+// have to trim the string
+
+let str8 = new String("Hi there am i giving any bug       ");
+let trimString = str8.trim();
+console.log(`the new string after the trim is : ${trimString}`);
+logger.log('INFO',`the new trim string is : ${trimString}`);

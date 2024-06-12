@@ -34,3 +34,6 @@ console.log(`The type of the concatinated is : ${typeof(str4)}`);
 logger.log('INFO',`the type of the concatinated is : ${typeof(str4)}`);
 
 //substring
+let str5 = str4.substring(15,20);
+console.log(`the substring is : ${str5}`);
+logger.log('INFO',`the substring is : ${str5}`);

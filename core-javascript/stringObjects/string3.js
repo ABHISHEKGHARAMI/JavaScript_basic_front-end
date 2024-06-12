@@ -44,3 +44,8 @@ let str6  = str4.toLowerCase();
 
 console.log(`After converting the charecter in lower case the string will be : ${str6}`);
 logger.log('INFO',`After converting the charceter in the lowercase the string will be : ${str6}`);
+
+
+let str7 = str4.toUpperCase();
+console.log(`After converting the charecter in upper case the string will be : ${str7}`);
+logger.log('INFO',`After converting the charecter in the lowercase the string will be : ${str7}`);

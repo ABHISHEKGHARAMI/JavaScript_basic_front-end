@@ -27,3 +27,8 @@ let str4 = str2.concat(str3);
 
 console.log(`After concatenation the string is : ${str4}`);
 logger.log('INFO',`After concatenation the string is : ${str4}`);
+
+//checking the datatype and then get the substring
+
+console.log(`The type of the concatinated is : ${typeof(str4)}`);
+logger.log('INFO',`the type of the concatinated is : ${typeof(str4)}`);

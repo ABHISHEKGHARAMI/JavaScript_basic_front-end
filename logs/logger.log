@@ -551,3 +551,8 @@
 [2024-06-12T07:38:44.703Z] [INFO] After concatenation the string is : My name is :Abhishek Gharami (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\stringObjects\string3.js:29:8)
 [2024-06-12T07:38:44.702Z] [INFO] the length of the string is : 23 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\stringObjects\string3.js:20:8)
 [2024-06-12T07:38:44.704Z] [INFO] the type of the concatinated is : string (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\stringObjects\string3.js:34:8)
+[2024-06-12T07:42:31.713Z] [INFO] String created using the template literal string (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\stringObjects\string3.js:14:8)
+[2024-06-12T07:42:31.757Z] [INFO] the type of the concatinated is : string (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\stringObjects\string3.js:34:8)
+[2024-06-12T07:42:31.755Z] [INFO] the length of the string is : 23 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\stringObjects\string3.js:20:8)
+[2024-06-12T07:42:31.756Z] [INFO] After concatenation the string is : My name is :Abhishek Gharami (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\stringObjects\string3.js:29:8)
+[2024-06-12T07:42:31.807Z] [INFO] the substring is : ishek (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\stringObjects\string3.js:39:8)

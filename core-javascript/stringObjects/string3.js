@@ -18,3 +18,12 @@ let strlen = str.length;
 
 console.log(`the length of the string is : ${strlen}`);
 logger.log('INFO',`the length of the string is : ${strlen}`);
+
+// string concatenation
+let str2 = new String("My name is :");
+let str3 = new String("Abhishek Gharami");
+
+let str4 = str2.concat(str3);
+
+console.log(`After concatenation the string is : ${str4}`);
+logger.log('INFO',`After concatenation the string is : ${str4}`);

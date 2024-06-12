@@ -53,6 +53,8 @@ logger.log('INFO',`After converting the charecter in the lowercase the string wi
 // have to trim the string
 
 let str8 = new String("Hi there am i giving any bug       ");
+console.log(`the length of the string is : ${str8.length}`)
 let trimString = str8.trim();
 console.log(`the new string after the trim is : ${trimString}`);
 logger.log('INFO',`the new trim string is : ${trimString}`);
+console.log(`the length of the string is : `)

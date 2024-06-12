@@ -542,3 +542,5 @@
 [2024-06-02T12:56:38.314Z] [INFO] the array is : ,,,,,a,b,c,d,e (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array_2_practise1.js:14:8)
 [2024-06-02T12:56:38.739Z] [INFO] the array is : e (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\arrays&objects\array_2_practise1.js:19:8)
 [2024-06-05T16:27:26.543Z] [INFO] the string is : hello there i am starting the javascript.. (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\stringObjects\string2.js:6:8)
+[2024-06-12T07:29:12.110Z] [INFO] the length of the string is : 23 (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\stringObjects\string3.js:20:8)
+[2024-06-12T07:29:09.429Z] [INFO] String created using the template literal string (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\stringObjects\string3.js:14:8)

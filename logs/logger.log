@@ -592,3 +592,5 @@
 [2024-06-12T16:32:28.869Z] [INFO] After converting the charecter in the lowercase the string will be : MY NAME IS :ABHISHEK GHARAMI (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\stringObjects\string3.js:51:8)
 [2024-06-12T16:32:28.870Z] [INFO] the new trim string is : Hi there am i giving any bug (File: d:\javascripts_basics\JavaScript_basic_front-end\core-javascript\stringObjects\string3.js:58:8)
 [2024-06-18T05:53:13.120Z] [INFO] year : 2024,month : 5,time : 1718689992825, timezone :-330 (File: dates1.js:15:8)
+[2024-06-18T06:41:14.793Z] [INFO] the first number is : 123000000 (File: num1.js:9:8)
+[2024-06-18T06:41:16.660Z] [INFO] The second number is : 0.000123 (File: num1.js:13:8)

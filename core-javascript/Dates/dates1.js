@@ -1,5 +1,5 @@
 // logger file
-import logger from '../../logger';
+const logger = require('../../logger');
 
 // getting the date
 let date = new Date();

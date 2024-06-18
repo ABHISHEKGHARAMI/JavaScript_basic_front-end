@@ -1,5 +1,5 @@
 // logger file
-const logger = require('../../logger');
+const logger = require('../../logger')
 
 // getting the date
 let date = new Date();
@@ -12,5 +12,5 @@ let timezone = date.getTimezoneOffset();
 let fdate = new Intl.DateTimeFormat('en-us').format(date);
 
 console.log(`year : ${year},month : ${month},time : ${time}, timezone :${timezone}`);
-logger.log('INFO',`year : ${year},month : ${month},time : ${time}, timezone :${timezone}`);
+log('INFO',`year : ${year},month : ${month},time : ${time}, timezone :${timezone}`);
 

@@ -617,3 +617,6 @@
 [2024-06-20T15:48:30.902Z] [INFO] By geeksforgeeks (File: obj2.js:15:16)
 [2024-06-20T15:50:53.625Z] [INFO] Hello There. (File: obj2.js:8:12)
 [2024-06-20T15:50:53.638Z] [INFO]   - By geeksforgeeks (File: obj2.js:15:16)
+[2024-06-20T15:59:43.669Z] [INFO] Boolean 10 is : true (File: bool1.js:6:8)
+[2024-06-20T15:59:43.685Z] [INFO] Boolean of String is : true (File: bool1.js:10:8)
+[2024-06-20T15:59:43.686Z] [INFO] Boolean of Decimal of : true (File: bool1.js:13:8)

@@ -608,3 +608,8 @@
 [2024-06-20T15:37:44.326Z] [INFO] String Property : Geeksforgeeks (File: obj1.js:24:8)
 [2024-06-20T15:37:44.332Z] [INFO] Inner property : 6 (File: obj1.js:30:8)
 [2024-06-20T15:37:44.328Z] [INFO] Object Property : Thu Jun 20 2024 21:07:44 GMT+0530 (India Standard Time) (File: obj1.js:27:8)
+[2024-06-20T15:39:22.276Z] [INFO] Integer property : 5 (File: obj1.js:22:8)
+[2024-06-20T15:39:22.518Z] [INFO] String Property : Geeksforgeeks (File: obj1.js:25:8)
+[2024-06-20T15:39:22.520Z] [INFO] Object Property : Thu Jun 20 2024 21:09:22 GMT+0530 (India Standard Time) (File: obj1.js:28:8)
+[2024-06-20T15:39:22.522Z] [INFO] Inner property : 6 (File: obj1.js:31:8)
+[2024-06-20T15:39:22.524Z] [INFO] Welcome to geeksforgeeks (File: obj1.js:15:16)

@@ -596,3 +596,6 @@
 [2024-06-18T06:41:16.660Z] [INFO] The second number is : 0.000123 (File: num1.js:13:8)
 [2024-06-20T15:14:57.381Z] [INFO] Math.ln10 : 2.302585092994046 (File: num2.js:7:8)
 [2024-06-20T15:14:58.620Z] [INFO] Math.ln2 (File: num2.js:11:8)
+[2024-06-20T15:19:01.918Z] [INFO] Math.ln10 : 2.302585092994046 (File: num2.js:7:8)
+[2024-06-20T15:19:02.684Z] [INFO] math.pi : 3.141592653589793 (File: num2.js:15:8)
+[2024-06-20T15:19:02.680Z] [INFO] Math.ln2 (File: num2.js:11:8)

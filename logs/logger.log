@@ -624,3 +624,7 @@
 [2024-06-20T16:07:10.285Z] [INFO] Boolean of String is : true (File: bool1.js:10:8)
 [2024-06-20T16:07:10.286Z] [INFO] Boolean of Decimal of : true (File: bool1.js:13:8)
 [2024-06-20T16:07:10.287Z] [INFO] Boolean of the 1 < 2 : true (File: bool1.js:17:8)
+[2024-06-20T16:09:02.787Z] [INFO] Boolean of the 1 < 2 : true (File: bool1.js:17:8)
+[2024-06-20T16:09:02.786Z] [INFO] Boolean of Decimal of : true (File: bool1.js:13:8)
+[2024-06-20T16:09:02.774Z] [INFO] Boolean 10 is : true (File: bool1.js:6:8)
+[2024-06-20T16:09:02.786Z] [INFO] Boolean of String is : true (File: bool1.js:10:8)

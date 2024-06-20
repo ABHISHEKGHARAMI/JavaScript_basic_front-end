@@ -22,3 +22,6 @@ logger.log('INFO',`Integer property : ${obj1.int_prop}`);
 
 console.log(`String property : ${obj1.set_prop}`);
 logger.log('INFO',`String Property : ${obj1.set_prop}`);
+
+console.log(`Object property : ${obj1.obj_prop}`);
+logger.log('INFO',`Object Property : ${obj1.obj_prop}`);

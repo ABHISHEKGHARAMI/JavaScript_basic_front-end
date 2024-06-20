@@ -599,3 +599,5 @@
 [2024-06-20T15:19:01.918Z] [INFO] Math.ln10 : 2.302585092994046 (File: num2.js:7:8)
 [2024-06-20T15:19:02.684Z] [INFO] math.pi : 3.141592653589793 (File: num2.js:15:8)
 [2024-06-20T15:19:02.680Z] [INFO] Math.ln2 (File: num2.js:11:8)
+[2024-06-20T15:32:59.991Z] [INFO] Integer property : 5 (File: obj1.js:21:8)
+[2024-06-20T15:33:01.223Z] [INFO] String Property : Geeksforgeeks (File: obj1.js:24:8)

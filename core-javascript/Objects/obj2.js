@@ -11,8 +11,8 @@ function toGreet(){
 let myObj = {
     greet : toGreet,
     byWhom : function(){
-        console.log(`By geeksforgeeks`);
-        logger.log('INFO','By geeksforgeeks');
+        console.log(`  - By geeksforgeeks`);
+        logger.log('INFO','  - By geeksforgeeks');
     }
 }
 

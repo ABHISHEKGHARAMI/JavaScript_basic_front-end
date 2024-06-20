@@ -613,3 +613,5 @@
 [2024-06-20T15:39:22.520Z] [INFO] Object Property : Thu Jun 20 2024 21:09:22 GMT+0530 (India Standard Time) (File: obj1.js:28:8)
 [2024-06-20T15:39:22.522Z] [INFO] Inner property : 6 (File: obj1.js:31:8)
 [2024-06-20T15:39:22.524Z] [INFO] Welcome to geeksforgeeks (File: obj1.js:15:16)
+[2024-06-20T15:48:30.890Z] [INFO] Hello There. (File: obj2.js:8:12)
+[2024-06-20T15:48:30.902Z] [INFO] By geeksforgeeks (File: obj2.js:15:16)

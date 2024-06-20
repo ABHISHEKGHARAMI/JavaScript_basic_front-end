@@ -15,3 +15,6 @@ let myObj = {
         logger.log('INFO','By geeksforgeeks');
     }
 }
+
+myObj.greet();
+myObj.byWhom();

@@ -615,3 +615,5 @@
 [2024-06-20T15:39:22.524Z] [INFO] Welcome to geeksforgeeks (File: obj1.js:15:16)
 [2024-06-20T15:48:30.890Z] [INFO] Hello There. (File: obj2.js:8:12)
 [2024-06-20T15:48:30.902Z] [INFO] By geeksforgeeks (File: obj2.js:15:16)
+[2024-06-20T15:50:53.625Z] [INFO] Hello There. (File: obj2.js:8:12)
+[2024-06-20T15:50:53.638Z] [INFO]   - By geeksforgeeks (File: obj2.js:15:16)

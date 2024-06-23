@@ -12,3 +12,12 @@ let map1 = new Map([
 // executing the map for the js
 console.log(map1);
 logger.log('INFO',map1);
+
+let map2 = new Map();
+
+map2.set("FirstName","Abhishek");
+map2.set("LastName","Gharami");
+map2.set("Age",24);
+
+console.log(map2);
+logger.log('INFO',map2);

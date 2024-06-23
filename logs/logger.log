@@ -628,3 +628,4 @@
 [2024-06-20T16:09:02.786Z] [INFO] Boolean of Decimal of : true (File: bool1.js:13:8)
 [2024-06-20T16:09:02.774Z] [INFO] Boolean 10 is : true (File: bool1.js:6:8)
 [2024-06-20T16:09:02.786Z] [INFO] Boolean of String is : true (File: bool1.js:10:8)
+[2024-06-23T04:56:21.413Z] [INFO] After the map : [object Map] (File: map1.js:14:8)

@@ -10,5 +10,5 @@ let map1 = new Map([
 
 
 // executing the map for the js
-console.log(`After the map : ${map1}`);
-logger.log('INFO',`After the map : ${map1}`);
+console.log(`After the map : ${map1[2]}`);
+logger.log('INFO',`After the map : ${map1[2]}`);

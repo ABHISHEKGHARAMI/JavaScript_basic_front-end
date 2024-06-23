@@ -38,3 +38,9 @@ logger.log('INFO',c2);
 console.log(c2.next().value);
 console.log(c2.next().value);
 console.log(c2.next().value);
+
+console.log(set1.keys());
+logger.log('INFO',set1.keys())
+
+console.log(set2.keys());
+logger.log('INFO',set2.keys());

@@ -28,3 +28,9 @@ logger.log('INFO',set1);
 
 console.log(set2);
 logger.log('INFO',set2);
+
+let c2;
+c2 = set2.entries();
+
+console.log(c2);
+logger.log('INFO',c2);

@@ -11,3 +11,4 @@ let map1 = new Map([
 
 // executing the map for the js
 console.log(map1);
+logger.log('INFO',map1);

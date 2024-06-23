@@ -630,3 +630,4 @@
 [2024-06-20T16:09:02.786Z] [INFO] Boolean of String is : true (File: bool1.js:10:8)
 [2024-06-23T04:56:21.413Z] [INFO] After the map : [object Map] (File: map1.js:14:8)
 [2024-06-23T04:57:28.479Z] [INFO] After the map : undefined (File: map1.js:14:8)
+[2024-06-23T05:02:28.493Z] [INFO] [object Map] (File: map1.js:14:8)

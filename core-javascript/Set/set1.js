@@ -34,3 +34,7 @@ c2 = set2.entries();
 
 console.log(c2);
 logger.log('INFO',c2);
+
+console.log(c2.next().value);
+console.log(c2.next().value);
+console.log(c2.next().value);
